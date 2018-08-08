@@ -3,7 +3,7 @@ title: Acetaminophen toxicity
 authors:
   - 'Michelle Lin, MD'
 created: 2011/11/04
-updated: null
+updated: 2018/08/08
 categories:
   - Toxicology
   - Pharmacology
@@ -13,7 +13,7 @@ categories:
 
 **Rumack Matthew Nomogram**
 
-![Rumack Matthew Nomogram](./media/acetaminophen-toxicity_image-1.png)
+![Rumack Matthew Nomogram](/cards/media/acetaminophen-toxicity_image-1.png)
 
 Note: Use for single time-point ingestion only. Does not predict toxicity in chronic ingestion.
 
