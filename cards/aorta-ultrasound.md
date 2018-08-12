@@ -5,7 +5,6 @@ authors:
   - 'Heidi Kimberly, MD'
   - 'Mike Stone, MD'
 created: 2014/09/13
-updated: null
 categories:
   - Ultrasound
   - Radiology
@@ -13,6 +12,7 @@ categories:
 ---
 
 # Ultrasound: Focused Abdominal Aorta
+test edit
 
 **Goal**
 - Evaluate for abdominal aortic aneurysm (AAA)
